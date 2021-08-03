@@ -118,3 +118,7 @@ $ scrapy crawl search -s JOBDIR=crawls/search
 ![](https://picture.cognize.me/cognize/github/weibospider/cookie2.png)
 4.依此点击Chrome开发者工具中的Network->Name中的weibo.cn->Headers->Request Headers，"Cookie:"后的值即为我们要找的cookie值，复制即可，如图所示：
 ![](https://picture.cognize.me/cognize/github/weibospider/cookie3.png)
+
+## Colab应用
+https://www.cnblogs.com/zgqcn/p/11186406.html  Colab教程
+https://blog.csdn.net/qq_39496504/article/details/107125284?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162781108616780269896639%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=162781108616780269896639&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-107125284.pc_search_result_before_js&utm_term=lda&spm=1018.2226.3001.4187  LDA中gensim包应用

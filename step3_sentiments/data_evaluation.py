@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan  4 09:59:46 2018
-@author: Ming JIN
-"""
+
 #from snownlp import sentiment
 #import numpy as np
 from snownlp import SnowNLP
